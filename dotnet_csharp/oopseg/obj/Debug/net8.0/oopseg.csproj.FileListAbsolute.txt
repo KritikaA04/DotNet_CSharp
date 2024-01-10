@@ -1,0 +1,14 @@
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\bin\Debug\net8.0\oopseg.exe
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\bin\Debug\net8.0\oopseg.deps.json
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\bin\Debug\net8.0\oopseg.runtimeconfig.json
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\bin\Debug\net8.0\oopseg.dll
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\bin\Debug\net8.0\oopseg.pdb
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.dll
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\refint\oopseg.dll
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.pdb
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\oopseg.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Fareportal\dotnet\oopseg\obj\Debug\net8.0\ref\oopseg.dll
